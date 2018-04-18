@@ -1,1 +1,1 @@
-wheat, barley, maize, corn, rye, oat, rice
+wheat barley maize corn rye oat rice
