@@ -1,0 +1,5 @@
+user file log command access default host address information time setting name parameter event message example mode table show window type sip one list number value note feature change update group instance image version top 
+cisco linux 
+use used using set support guide call available see based running following enable provides connect add supported also sent enabled required run start 
+configure configured installed install configuring 
+server system configuration application device service network installation interface port protocol web connection database firewall management conference domain software directory data remote virtual machine password storage node resource deployment administrator traffic client disk controller hardware 

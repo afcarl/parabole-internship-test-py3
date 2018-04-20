@@ -1,0 +1,5 @@
+used contained receiving conditional advice handling good received responsible free required delivered accepted coded 
+rff dtm 
+segment number cps unit group code item message label qty type reference usage pce pac name level recommendation date note gin part description line march piece version time optional order purpose list inner example qualifier lin sub comment frame information element per guideline nad party asap position edition aad value sequence period pci component seg aac function document measurement cromwell location 
+quantity packaging delivery product package supplier pallet packing box shipping transport carton assembly container 
+identification use attribute identified mark specify address identify identifying 

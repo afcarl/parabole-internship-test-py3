@@ -1,1 +1,3 @@
 ===================================== FILL YOUR EXPLANATION BELOW ===============================================================================
+I first got out unique set of words from all of the input files by using the file get_unique.py. Then I downloaded fasttext pretrained engilsh word2vectors. I then got out vectors for the words in out training set and pickled them to load later.
+I then iterated through all the files got out the vectors for each word and made a training set reduced their dimensionality for k-means. I used a k = sqrt(len(data))/2 . I then took out labels for each of the word and stored them in o/p file according to their clustered class.

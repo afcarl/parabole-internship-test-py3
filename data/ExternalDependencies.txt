@@ -1,1 +1,5 @@
 =================================================== WRITE THE DEPENDENCIES BELOW ===============================================================
+gensim - to load word vectors efficiently
+sklearn - kmeans and pca
+numpy - vector processing
+pickle - to save objects

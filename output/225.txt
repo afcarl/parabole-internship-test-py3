@@ -1,0 +1,5 @@
+market day resource hour system capacity dispatch time demand schedule minute participant scheduling requirement performance auction peak forecast commitment payment hourly constraint commission zone flexibility renewal design period point region penalty response month level quantity signal charge conflict bid reform 
+pso pjm tsos ferc rtos market_participant 
+iso load transmission generator tariff ftr interconnection reliability rto annualised network imbalance wholesale voltage tso operator supplier england net entity unit node output 
+virtual ahead participating balancing real physical forward offer need provide supply two use also needed non based posted benefit study independent ancillary scheduled meet change associated address high ensure end 
+outage 

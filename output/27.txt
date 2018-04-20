@@ -1,0 +1,5 @@
+call put buy strike sell also traded using used change spread pay buying selling exercised move increase fall share close give use take called paid remove make 
+strike_price stock_price call_option future_contract put_option option_price 
+option future position contract time value exercise spot month day risk maturity strategy expiration loss date expiry cost case rate interest point holder 
+price stock money volatility market premium trading cash pricing derivative hedge hedging profit asset dividend arbitrage index portfolio investor vega 
+forward underlying one short delta long example two black gamma european right per equal zero scholes higher either mean implied lower american therefore three 

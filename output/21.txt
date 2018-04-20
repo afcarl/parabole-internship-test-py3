@@ -1,0 +1,5 @@
+unit field thomson data segment ratio information issue product item book month standard footnote date term code value pre dps avg interim definition nace eps indicator description type template parent list week year 
+lcb gaap adrs current_price 
+share per includes available represents confidential current common low high yield total reported close represent used last operating preferred included generally return non long prior restricted gross supplementary annual extraordinary also average outstanding 
+dividend amortization depreciation 
+industry earnings price financial market stock income growth company asset sale equity geographic cash capitalization fiscal flow pension tax reserve insurance bank net security healthcare auditor debt 

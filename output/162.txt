@@ -1,0 +1,5 @@
+read register write address reading set head change tap view seek control note reset see offset interrupt hold start pin counter starting log 
+lsb 
+reserved equal established mixed specified summarizes defined optional added used written required signed includes active assumes assumed respectively 
+byte spi vert pid prev edm wim tid ccd sgn 
+bit frame operation cultivator line data busy value front time cannabis command buffer track current outdoor section sector indoor error light illegal table default number first volatile non mid next mode cultivation pound medical range bits type nursery device wrt flag threshold parameter legal one regulation size process 

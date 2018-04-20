@@ -1,0 +1,5 @@
+swap fixed floating based pay used variable fixing two underlying spread using following three reset make made use also set calculated start quoted cross determined 
+interest_rate_swap notional_amount fixed_rate floating_rate reference_rate month_libor fras 
+libor notional euribor counterparty irs fra swaptions ois derivative swaption payer hedge counterparties hedging 
+rate forward month interest transaction date payment leg tenor one contract time party basis term reference exposure year market curve future borrowing currency amount risk position end side quarterly value actual convention agreement exchange period overnight instrument receiver net cap example point act case vanilla cost day credit 
+enter entered entering enters receive receives 
